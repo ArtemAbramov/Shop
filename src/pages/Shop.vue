@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import shopItem from '@/components/Shopitem.vue'
+import shopItem from '@/components/ShopItem.vue'
 export default {
   components: {
     shopItem
